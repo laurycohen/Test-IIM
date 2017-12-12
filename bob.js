@@ -3,6 +3,6 @@ function ciflard(a, b) {
 }
 
 function pinard(rouge, blanc) {
-    console.log("J'aime le pinard mais je préfère le rouge");
+    console.log("J'aime le pinard mais je préfère le blanc");
     return rouge;
 }
