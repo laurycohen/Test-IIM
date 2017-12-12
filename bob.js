@@ -10,4 +10,5 @@ function pinard(rouge, blanc) {
 function raclette(patate, fromage) {
     console.log("La raclette c'est la vie");
     return rouge + raclette;
+    return YES;
 }
