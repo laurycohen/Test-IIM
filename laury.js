@@ -10,4 +10,5 @@ function sub (a,b) {
     a - b;
     debug.log("blabla3");
     debug.log("blabla4");
+    debug.log("blabla5");
 }
